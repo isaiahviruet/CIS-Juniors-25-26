@@ -1,0 +1,13 @@
+body {
+    background-color: #1e1e2e
+}
+
+p {
+    width: 220px;
+    padding: 10px;
+    border: 2px solid #cba6f7;
+    margin: 0px;
+    background-color: #1e1e2e;
+    text-align: center;
+    color: #cdd6f4;
+    }
